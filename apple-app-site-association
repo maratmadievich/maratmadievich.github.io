@@ -5,7 +5,7 @@
       {
         "appID": "2CKNNNH7SR.am.helix.Delivery-Club",
         "paths": [
-          "*"
+          "/tips/pay*"
         ]
       }
     ]
