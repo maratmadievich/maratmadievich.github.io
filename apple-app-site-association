@@ -9,5 +9,8 @@
         ]
       }
     ]
+  },
+  "appclips": {
+        "apps": ["am.helix.Delivery-Club.TipsAppClip"]
   }
 }
