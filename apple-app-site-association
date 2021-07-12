@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "2CKNNNH7SR.am.helix.Delivery-Club",
+        "appID": "7J4TANDD7J.ru.marat.reminder.app",
         "paths": [
           "/pay*"
         ]
@@ -11,6 +11,6 @@
     ]
   },
   "appclips": {
-        "apps": ["2CKNNNH7SR.am.helix.Delivery-Club.TipsAppClip"]
+        "apps": ["7J4TANDD7J.ru.marat.reminder.app.ReminderAppClip"]
   }
 }
