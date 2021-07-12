@@ -5,7 +5,7 @@
              "appIDs": [ "7J4TANDD7J.ru.marat.reminder.app" ],
              "components": [
                {
-                  "/": "/pay*",
+                  "/": "/tips*",
                   "comment": "Match pay"
                }
              ]
