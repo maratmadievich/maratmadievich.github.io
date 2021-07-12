@@ -1,16 +1,18 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "7J4TANDD7J.ru.marat.reminder.app",
-        "paths": [
-          "/pay*"
-        ]
-      }
-    ]
-  },
-  "appclips": {
+      "details": [
+           {
+             "appIDs": [ "7J4TANDD7J.ru.marat.reminder.app" ],
+             "components": [
+               {
+                  "/": "/pay*",
+                  "comment": "Match pay"
+               }
+             ]
+           }
+       ]
+   },
+    "appclips": {
         "apps": ["7J4TANDD7J.ru.marat.reminder.app.ReminderAppClip"]
-  }
+    }
 }
