@@ -10,6 +10,9 @@
       }
     ]
   },
+  "webcredentials": {
+      "apps": [ "7J4TANDD7J.ru.marat.reminder.app" ]
+   },
   "appclips": {
         "apps": ["7J4TANDD7J.ru.marat.reminder.app.ReminderAppClip"]
   }
