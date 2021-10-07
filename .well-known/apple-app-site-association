@@ -3,12 +3,7 @@
       "details": [
            {
              "appIDs": [ "7J4TANDD7J.ru.marat.reminder.app" ],
-             "components": [
-               {
-                  "/": "/tips*",
-                  "comment": "Match pay"
-               }
-             ]
+             "paths": [ "/tips*" ]
            }
        ]
    },
